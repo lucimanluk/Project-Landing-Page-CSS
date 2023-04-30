@@ -22,4 +22,10 @@ Change five:
 
 Change six:
 
--finished the bigger sign-up advert that was under the quote part.
+-finished the bigger sign-up advert that was under the quote part. Also added the footer in HTML.
+
+Change seven:
+
+-finished the footer, thus completing the website page for now.
+
+
