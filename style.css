@@ -11,7 +11,7 @@ body{
 }
 
 .header{
-    display: flex;
+   display: flex;
    justify-content: center;
    align-items: center;
    gap:450px;
@@ -112,19 +112,17 @@ ul{
 .quote{
     background-color: #E5E7EB;
     display:flex;
-    flex-wrap: wrap;
     flex-direction: column; 
-    align-items: center;
-    padding:80px 160px;
+    padding:80px 310px;
     font-size:36px;
     font-style: italic;
 }
 
 #citat{
+    text-align: center;
     margin:0px;
 }
 
 #autor{
-    display:flex;
-    justify-content: flex-end;
+    text-align: right;
 }

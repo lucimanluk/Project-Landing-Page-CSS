@@ -15,3 +15,7 @@ Change three:
 Change four:
 
 -edited the random info element of the page, which is the second element of the page.
+
+Change five:
+
+-finished the quote element of the page. (funny quote hehe :D).
