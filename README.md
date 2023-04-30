@@ -19,3 +19,7 @@ Change four:
 Change five:
 
 -finished the quote element of the page. (funny quote hehe :D).
+
+Change six:
+
+-finished the bigger sign-up advert that was under the quote part.

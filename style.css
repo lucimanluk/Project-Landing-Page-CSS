@@ -39,7 +39,7 @@ ul{
     margin-bottom: 80px;
 }
 
-.scris{
+.under-header .scris{
     font-size: 18px;
     color:#E5E7EB;
     display:flex;
@@ -49,7 +49,7 @@ ul{
     max-width:400px;
 }
 
-.span1{
+.under-header .span1{
     font-size: 48px;
     font-weight: bolder;
     color:#F9FAF8;
@@ -125,4 +125,41 @@ ul{
 
 #autor{
     text-align: right;
+}
+
+.continut-part3{
+    background-color: #3882f6;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:40px 80px;
+    margin:80px 160px;
+    border:0px;
+    border-radius:5px;
+}
+
+.scris2{
+    display:flex;
+    flex-direction: column;
+}
+
+.scris2 .span1{
+    font-weight: bolder;
+    font-size:25px;
+}
+
+.scris2 .span1,
+.scris2 .span2{
+    color:white;
+}
+
+.butonul2{
+    background-color: #3882f6;
+    color:white;
+    padding:4px 8px;
+    border:2px solid white;
+    border-radius:5px;
+    width:100px;
+    height: 30px;
+    margin-top:8px;
 }
