@@ -91,6 +91,15 @@ ul{
     margin-top:40px;
     display: flex;
     flex-wrap: wrap;
+    gap: 60px;
+    margin-bottom: 100px;
+}
+
+.illustration{
+    width:126px;
+    font-size:15px;
+    text-align: center;
+    color:grey;
 }
 
 .cutie{
@@ -105,6 +114,7 @@ ul{
     display:flex;
     flex-wrap: wrap;
     flex-direction: column; 
+    align-items: center;
     padding:80px 160px;
     font-size:36px;
     font-style: italic;
@@ -115,5 +125,6 @@ ul{
 }
 
 #autor{
-   align-content:flex-end;
+    display:flex;
+    justify-content: flex-end;
 }
